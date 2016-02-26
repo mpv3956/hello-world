@@ -1,2 +1,2 @@
 # hello-world
-startx
+sometimes, it's fun to do the tutorial
